@@ -1,5 +1,7 @@
 # Élévation de Cubes Isométrique NxN
 
+Démo : https://rodeofly.github.io/isometric-cubes/isometric-cubes.html
+
 Ce projet fournit une interface web interactive pour dessiner des piles de cubes en perspective isométrique à partir d'une matrice carrée NxN d'élévations (hauteurs). Chaque cellule de la matrice représente le nombre de cubes empilés à cet emplacement. L'utilisateur peut :
 
 * Modifier dynamiquement la taille de la matrice (augmenter ou réduire la dimension).
